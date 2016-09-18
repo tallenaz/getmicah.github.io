@@ -1,4 +1,4 @@
-var nowPlaying = {
+/* var nowPlaying = {
     getRecentTracksURL: "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=getmicah&api_key=b4678efadfadbcf8882ed8e5432173b1&format=json",
     recentTrack: null,
     init: function() {
@@ -48,4 +48,4 @@ var nowPlaying = {
         this.el.innerHTML = this.recentTrack;
     }
 }
-nowPlaying.init();
+nowPlaying.init(); */
